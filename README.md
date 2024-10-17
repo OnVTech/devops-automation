@@ -14,7 +14,8 @@ To get started, clone the repository:
 
 ```bash
 git clone https://github.com/OnVTech/devops-automation.git
-``
+
+```
 
 ### **Description**:
 We need to create a new DevOps project in this repository and set up automation scripts for the following tasks:
