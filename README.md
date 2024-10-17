@@ -13,20 +13,21 @@ This repository contains scripts and configurations for implementing DevOps prac
 To get started, clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/repository-name.git
+git clone https://github.com/OnVTech/devops-automation.git
+``
 
-**Description**:
+### **Description**:
 We need to create a new DevOps project in this repository and set up automation scripts for the following tasks:
 - Continuous Integration/Continuous Deployment (CI/CD) pipeline using Jenkins or GitHub Actions.
 - Infrastructure as Code (IaC) setup using Terraform or Ansible.
 - Docker and Kubernetes configuration for containerization and orchestration.
 - Monitoring and logging setup with Prometheus and Grafana.
 
-**Steps**:
+### **Steps**:
 1. Create a new project board in GitHub for DevOps tasks.
 2. Set up initial pipeline scripts for CI/CD automation.
 3. Write Dockerfiles and Kubernetes manifests for deployment.
 4. Implement Infrastructure as Code (IaC) templates.
 
-**Expected Outcome**:
+ ### **Expected Outcome**:
 A fully functional DevOps project with automated deployment, monitoring, and infrastructure management.
